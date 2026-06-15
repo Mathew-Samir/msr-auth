@@ -25,7 +25,7 @@ export const DEFAULT_ENDPOINTS: AuthEndpoints = {
   confirmEmailVerification: 'auth/confirm-email-verification',
 };
 
-/**
+/** test
  * Configuration provider function for MsAuth library.
  * To be used in app.config.ts.
  *
